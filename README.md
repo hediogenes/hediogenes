@@ -14,7 +14,6 @@
 - Microsoft Office (Excel, PowerPoint)
 - Tableu
 - Redash
-- Airflow 
 - blender (Около года занимался 3D-моделированием!)
 
 ## 👨‍💻 Мои проекты
