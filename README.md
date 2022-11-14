@@ -20,6 +20,7 @@
 - [A/B тест между двумя моделями монетизации видеоигры](https://github.com/hediogenes/my_resume/blob/main/AB-тест.ipynb)
 - [RFM-анализ покупателей интернет-магазина](https://github.com/hediogenes/my_resume/blob/main/RFM-сегментация.ipynb)
 - [Функция, считающая Retention](https://github.com/hediogenes/my_resume/blob/main/Функция_по_подсчету_Retention.ipynb)
+- [SQL-запрос, формирующий итоговую зарплату сотрудников](https://github.com/hediogenes/SQL-Salary_per_month)
 - ...и другие проекты, которые Вы можете найти [тут](https://github.com/hediogenes?tab=repositories)
 
 ## 📚 Мои планы
