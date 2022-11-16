@@ -19,7 +19,7 @@
 ## 👨‍💻 Мои проекты
 - [A/B тест между двумя моделями монетизации видеоигры](https://github.com/hediogenes/Python-AB-test)
 - [RFM-анализ покупателей интернет-магазина](https://github.com/hediogenes/Python-RFM)
-- [Функция, считающая Retention](https://github.com/hediogenes/my_resume/blob/main/Функция_по_подсчету_Retention.ipynb)
+- [Функция, считающая Retention](https://github.com/hediogenes/Python-Retention_Function)
 - [SQL-запрос, считающий накопленную прибыль с помощью оконной функции и вложенного запроса](https://github.com/hediogenes/SQL-Window_Function)
 - [SQL-запрос, ищущий дни недели, в которые товары покупаются чаще всего](https://github.com/hediogenes/SQL-The_most_popular_weekday_of_each_product)
 - ...еще больше проектов [тут](https://github.com/hediogenes?tab=repositories)
