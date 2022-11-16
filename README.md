@@ -20,6 +20,7 @@
 - [A/B тест между двумя моделями монетизации видеоигры](https://github.com/hediogenes/my_resume/blob/main/AB-тест.ipynb)
 - [RFM-анализ покупателей интернет-магазина](https://github.com/hediogenes/my_resume/blob/main/RFM-сегментация.ipynb)
 - [Функция, считающая Retention](https://github.com/hediogenes/my_resume/blob/main/Функция_по_подсчету_Retention.ipynb)
+- [SQL-запрос, считающий накопленную прибыль с помощью оконной функции и вложенного запроса](https://github.com/hediogenes/SQL-Window_Function)
 - [SQL-запрос, ищущий день недели для каждого товара, в который те покупаются чаще всего](https://github.com/hediogenes/SQL-The_most_popular_weekday_of_each_product)
 - [SQL-запрос, формирующий итоговую зарплату сотрудников](https://github.com/hediogenes/SQL-Salary_per_month)
 - ...и другие проекты, которые Вы можете найти [тут](https://github.com/hediogenes?tab=repositories)
