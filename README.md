@@ -22,7 +22,7 @@
 - [Функция, считающая Retention](https://github.com/hediogenes/Python-Retention_Function)
 - [SQL-запрос, считающий накопленную прибыль с помощью оконной функции и вложенного запроса](https://github.com/hediogenes/SQL-Window_Function)
 - [SQL-запрос, ищущий дни недели, в которые товары покупаются чаще всего](https://github.com/hediogenes/SQL-The_most_popular_weekday_of_each_product)
-- [Дашборд по данным о доходах коммерческой компании](https://github.com/hediogenes/Dashboard-Income_Overview)
+- [Дашборд по данным о доходах мебельной компании](https://github.com/hediogenes/Dashboard-Income_Overview)
 - ...еще больше проектов [тут](https://github.com/hediogenes?tab=repositories)
 
 ## 📚 Мои планы
