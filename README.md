@@ -12,7 +12,7 @@
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL (ClickHouse, PostgreSQL)
 - Microsoft Office (Excel, PowerPoint)
-- Tableu
+- Tableau
 - Redash
 - blender (Около года занимался 3D-моделированием!)
 
