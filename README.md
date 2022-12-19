@@ -35,5 +35,3 @@
 ## 📫 Мои контакты
 - [Telegram](https://t.me/loki_the_trixter)
 - strumkum@gmail.com
-
-<img src="https://komarev.com/ghpvc/?username=hediogenes&style=flat-square&color=blue" alt=""/>
